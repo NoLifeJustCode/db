@@ -1,47 +1,12 @@
 {
 "products":[
   {
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },
-  {
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
-  },{
-    avatar:'',
-    name:'',
-    desc:'',
-    price:'',
+    "avatar":'',
+    "name":'',
+    "desc":'',
+    "price":'',
   }
+  
 ]
 
 }
