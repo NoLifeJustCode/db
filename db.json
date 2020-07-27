@@ -1,5 +1,8 @@
 {
   "products":[
     {"id":"","avatar":"","product_name":"","product_description":"","rating":"","product_price":""}
-    ]
+    ],
+  "carts":[
+  {"id":"","product":{"id":"","avatar":"","product_name":"","product_description":"","rating":"","product_price":""},"totalCost":""}
+]
 }
