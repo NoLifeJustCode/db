@@ -1,6 +1,10 @@
 {
   "products":[
-    {"id":"","avatar":"","product_name":"","product_description":"","rating":"","product_price":""}
+    {"id":"1","avatar":"","product_name":"sofa","product_description":"sofa","rating":"1","product_price":"6456"},
+    {"id":"2","avatar":"","product_name":"phone","product_description":"phone","rating":"2","product_price":"5645"},
+    {"id":"3","avatar":"","product_name":"book","product_description":"book","rating":"3","product_price":"564564"},
+    {"id":"4","avatar":"","product_name":"shirt","product_description":"shirt XL","rating":"4","product_price":"564564"},
+    {"id":"5","avatar":"","product_name":"mobile","product_description":"uphone","rating":"5","product_price":"44521"}
     ],
   "carts":[
   {"id":"","product":{"id":"","avatar":"","product_name":"","product_description":"","rating":"","product_price":""},"totalCost":"","qty":""}
